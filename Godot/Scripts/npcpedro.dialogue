@@ -1,0 +1,14 @@
+~ start
+
+Pedro: [[Alo|que wea|Hola|Oli]]... {{global.player_name}}
+- hola
+	Pedro: ya te salude po weono
+	- que haci?
+	Pedro: ando mapeando.\nQue sera que le puedo agregar por aqui?
+	- nada, ta pulenta la wea
+	Pedro: ahi ta viteh! => END!
+- que haci?
+	Pedro: ando mapeando.\nQue sera que le puedo agregar por aqui?
+	- nada, ta pulenta la wea
+	Pedro: ahi ta viteh!
+	=> END

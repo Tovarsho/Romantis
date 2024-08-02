@@ -1,0 +1,15 @@
+[gd_scene format=3 uid="uid://qw6km1qkwh1x"]
+
+[node name="HealthBarScene" type="Node2D"]
+
+[node name="HealthBar" type="TextureRect" parent="."]
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="HealthLabel" type="Label" parent="."]
+offset_right = 40.0
+offset_bottom = 23.0
+
+[node name="NamelLabel" type="Label" parent="."]
+offset_right = 40.0
+offset_bottom = 23.0

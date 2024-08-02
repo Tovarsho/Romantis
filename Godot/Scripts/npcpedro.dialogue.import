@@ -1,0 +1,15 @@
+[remap]
+
+importer="dialogue_manager_compiler_12"
+type="Resource"
+uid="uid://c02r8vj7j3wxt"
+path="res://.godot/imported/npcpedro.dialogue-6ede9e7256d6c8fad70171160d5cb056.tres"
+
+[deps]
+
+source_file="res://Scripts/npcpedro.dialogue"
+dest_files=["res://.godot/imported/npcpedro.dialogue-6ede9e7256d6c8fad70171160d5cb056.tres"]
+
+[params]
+
+defaults=true
