@@ -1,6 +1,6 @@
 extends CharacterBody2D
 
-# Variables
+# Variables.
 var enemy_in_attack_range = false  # Indica si el enemigo está en rango de ataque
 var enemy_attack_cooldown = true  # Controla el tiempo de enfriamiento entre ataques del enemigo
 var npc_in_range = false  # Indica si hay un NPC en rango
